@@ -1,11 +1,7 @@
 # Meta Front-End Developer Professional Certificate
-Launch your career as a front-end developer. Build job-ready skills for an in-demand career and earn a credential from Meta. No degree or prior experience required to get started.
 
-4.8stars
-1,710 ratings
 Taught by Meta Staff
   
-Already enrolled
 
 
 
@@ -181,11 +177,3 @@ By utilizing the UI design process, you will be able to create wireframes for fe
 The Capstone project enables you to demonstrate multiple skills from the Certificate by solving an authentic real-world problems. This course will test your knowledge and understanding, and provide you with a platform to show off your new abilities in front-end web development using React. 
 
 On completion of the Capstone project, you’ll have a job-ready portfolio that you can show to recruiters, demonstrate during interviews and impress potential future employers.
-
-
-# COURSE 9
-
-# Coding Interview Preparation
-The final course in this program will help prepare you for the unique aspects of a coding job interview, with approaches to problem solving, computer science foundations and soft skills needed to land the job.
-
-You’ll gain strategic insights and tips for successful interviewing. And, you’ll have the opportunity to openly discuss the emotional components of the interview process with other learners taking this course.
